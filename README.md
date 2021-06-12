@@ -9,6 +9,9 @@ What I learned:
 Whille developing this project, I solidified basic string, and vector manipulaation. As well as utilizing for loops and while loops.
 I learned about the getLine function which gave me the ability to add type string tasks which included spaces.
 
+HOW IT WORKS:
+It is very simple, Clone the repository, then complile the code. I used g++ *.cpp while developing. Then run your ./a.out command.
+
 MIT License
 
 Copyright (c) [2021] [Gage Miller]
