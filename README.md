@@ -6,7 +6,7 @@ This application will display a todo list menu.
 In the menu, you will have the options to display your list, add a task, delete a task and quit the program.
 
 What I learned:
-Whille developing this project, I solidified basic string, and vector manipulaation. As well as utilizing for loops and while loops.
+Whille developing this project, I solidified basic string, and vector manipulation. As well as utilizing for loops and while loops.
 I learned about the getLine function which gave me the ability to add type string tasks which included spaces.
 
 HOW IT WORKS:
