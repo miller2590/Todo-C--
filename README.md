@@ -1,35 +1,36 @@
-Terminal Todo Application in C++
+# Terminal Todo Application in C++
 
-My motivation for this project was to practice basic C++ skills while building something fun, and somewhat useful.
-This project uses the standard library of C++. 
-This application will display a todo list menu.
-In the menu, you will have the options to display your list, add a task, delete a task and quit the program.
+This Terminal Todo Application in C++ is a simple command-line program designed to help you manage your to-do tasks. The project is aimed at practicing basic C++ skills while creating a fun and practical application.
 
-What I learned:
-Whille developing this project, I solidified basic string, and vector manipulation. As well as utilizing for loops and while loops.
-I learned about the getLine function which gave me the ability to add type string tasks which included spaces.
+## Table of Contents
 
-HOW IT WORKS:
-It is very simple, Clone the repository, then complile the code. I used g++ *.cpp while developing. Then run your ./a.out command.
+- [Motivation](#motivation)
+- [Features](#features)
+- [Usage](#usage)
 
-MIT License
+## Motivation
 
-Copyright (c) [2021] [Gage Miller]
+The primary motivation behind this project was to enhance my C++ skills while working on a small, practical application. I wanted to create a command-line to-do list manager using C++ and the standard library.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## Features
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+This application offers the following features:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+- Display your to-do list.
+- Add tasks to your to-do list.
+- Delete tasks from your to-do list.
+- Quit the program.
+
+## What I Learned
+
+During the development of this project, I solidified my understanding of basic string and vector manipulation. I also gained experience in working with loops, such as for loops and while loops. Additionally, I learned how to use the `getline` function, which allowed me to input tasks with spaces.
+
+## How It Works
+
+1. Clone the repository to your local machine.
+2. Compile the code using a C++ compiler (e.g., g++).
+   ```bash
+   g++ *.cpp
+   ./a.out
+   ```
+   
