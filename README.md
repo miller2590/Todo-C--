@@ -6,7 +6,7 @@ This Terminal Todo Application in C++ is a simple command-line program designed 
 
 - [Motivation](#motivation)
 - [Features](#features)
-- [Usage](#usage)
+
 
 ## Motivation
 
@@ -30,7 +30,7 @@ During the development of this project, I solidified my understanding of basic s
 1. Clone the repository to your local machine.
 2. Compile the code using a C++ compiler (e.g., g++).
    ```bash
-   g++ *.cpp
-   ./a.out
+-   g++ *.cpp
+-   ./a.out
    ```
    
